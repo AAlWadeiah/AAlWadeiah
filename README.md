@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AAlWadeiah
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning machine learning and information visualization
+- 👀 I’m interested in product management 
+- 🌱 I’m currently learning product management techniques and AWS
 - 💞️ I’m looking to collaborate on nothing at the moment :(
 - 📫 You can reach me at my email: abdullah@embold.co
 
